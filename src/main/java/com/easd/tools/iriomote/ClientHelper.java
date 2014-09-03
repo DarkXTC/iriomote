@@ -1,4 +1,4 @@
-package com.easd.tools.resttest;
+package com.easd.tools.iriomote;
 
 /*
  * #%L
